@@ -1,2 +1,2 @@
 # learn-html-css
-Learn HTML &amp; CSS
+Learn HTML CSS
